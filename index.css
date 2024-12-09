@@ -1,0 +1,231 @@
+
+.images{
+    width:840px;
+    height: 550px;
+}
+.design{
+background-color: rgb(235, 89, 95);
+color: white;
+border: none;
+border-radius: 24px;
+font-weight: 500;
+padding: 8px 36px;
+font-size: 12px;
+font-family: Roboto, Arial, Helvetica, sans-serif;
+height: 36px;
+line-height: 20px;
+text-align: center;
+text-size-adjust: 100%;
+justify-content: space-between;
+}
+.design:hover{
+    opacity: .7;
+    cursor: pointer;
+}
+.top_line{
+    display: flex;
+    justify-content: space-between;
+    flex-direction:row;
+    position: fixed;
+    left: 1px;
+    right: 1px;
+    top: 0px;
+    padding: 10px 10px 10px 10px;
+    z-index: 1;
+    
+    
+    background-color: #fbf7f7;
+}
+.liv_image{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    font-family:Arial, Helvetica, sans-serif ;
+    margin-top: 10px;
+    background-color: white;
+    
+}
+.liv_space{
+    margin: 0px;
+}
+
+
+
+.container1{
+    position: relative;
+    width: 100%; 
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+}
+.differnce_top_liv{
+    margin-top:40px ;
+}
+.main_description{
+    position: absolute;
+    width: 58%;
+    height: 50%;
+    margin-left: 7%;
+    margin-top: 7%;
+    display: flex;
+    flex-direction:column;
+}
+.description{
+    font-size: 45px;
+    width: 50%;
+    color: white;
+}
+.sub_des{
+    width: 100%;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+}
+.description_yellow{
+    color: #fecc2a;
+}
+
+
+.details{
+    width: 23.1%;
+    height: 62.2%;
+    background-color: #fbf7f7;
+    position: absolute;
+    top: 10%;
+    left: 59%;
+    padding: 40px;
+    border-radius:3% ;
+}
+.detail_heading{
+    margin-left: 35px;
+    width: 250px;
+    font-family: Arial, Helvetica, sans-serif;
+
+    
+}
+.name{
+    width: 65%;
+    height: 5%;
+    display: block;
+    margin-top: 20px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 5px;
+    border: 1px solid rgb(235, 89, 95);
+    
+    
+}
+.phonenumber{
+    width: 65%;
+    height: 5%;
+    display: block;
+    
+    margin-top: 20px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 5px;
+    border: 1px solid rgb(235, 89, 95);
+}
+.checkbox{
+    display: inline-block;
+    
+}
+.whatsapp{
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+}
+.design2{
+    background-color: rgb(235, 89, 95);
+    color: white;
+    border: none;
+    border-radius: 24px;
+    font-weight: 500;
+    padding: 8px 36px;
+    font-size: 12px;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    height: 36px;
+    width: 90%;
+    line-height: 20px;
+    text-align: center;
+    text-size-adjust: 100%;
+    justify-content: space-between;
+    display: block;
+    
+    
+    
+}
+.design2:hover{
+    opacity: .7;
+    cursor: pointer;
+}
+.agreement{
+    margin: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    line-height: 19px;
+    font-size: 14px;
+    color: #41303e;
+}
+.privacy{
+    color: #fbf7f7;
+    
+}
+.reasonsWrapper{
+    display: flex;
+    flex-direction: row;
+    padding: 100px;
+}
+.personilsed_design{
+    margin-left: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    line-height: 0px;
+}
+.Warrenty{
+    margin-left: 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    line-height: 0px;
+}
+.transparent{
+    margin-left: 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    line-height: 15px;
+}
+.last_div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.last_cont{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #41303e;
+}
+.last_sub_cont{
+    text-align: center;
+    width: 900px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+}
+.last_button{
+    width: 220px;
+    background-color:#eb595f;
+    color:white ;
+    padding: 12px 48px;
+    border-radius: 115px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+.last_button:hover{
+    opacity: .7;
+}
+
+
