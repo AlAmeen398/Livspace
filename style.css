@@ -193,20 +193,22 @@ justify-content: space-between;
     display: flex;
     flex-direction: row;
     padding: 100px;
+    
 }
 .personilsed_design{
     margin-left: 30%;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    line-height: 0px;
+    line-height: 15px;
 }
 .Warrenty{
     margin-left: 10%;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    line-height: 0px;
+    line-height: 15px;
+    
 }
 .transparent{
     margin-left: 10%;
@@ -245,17 +247,3 @@ justify-content: space-between;
 .last_button:hover{
     opacity: .7;
 }
-.personilsed_design{
-    width: 100px;
-    line-height: 16px;
-    
-}
-.Warrenty{
-    width: 100px;
-    line-height: 16px;
-}
-.transparent{
-    width: 100px;
-}
-
-
